@@ -1,0 +1,5 @@
+{
+  "name": "GlicoCare AI",
+  "description": "Um assistente inteligente completo para diabéticos tipo 1 e tipo 2, com busca nutricional, log de glicemia, plano alimentar personalizado e chat especializado.",
+  "requestFramePermissions": []
+}
